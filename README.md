@@ -20,6 +20,3 @@ Bem-vindo ao Tasker, a sua solução completa para gerenciamento de tarefas! Est
 2. **Navegue até o Diretório do Projeto:**
    ```bash
    cd tasker
-
-
-
