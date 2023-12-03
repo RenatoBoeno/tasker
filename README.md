@@ -21,14 +21,17 @@ Certifique-se de ter o [XAMPP](https://www.apachefriends.org/index.html) instala
 ### Passos para Configurar o Tasker com o XAMPP
 
 1. **Clone o Repositório:**
+
    ```bash
    git clone https://github.com/seu-usuario/tasker.git
 
-Mova o Projeto para a Pasta htdocs do XAMPP:
+2. **Mova o Projeto para a Pasta htdocs do XAMPP:**
 Mova a pasta do projeto para o diretório htdocs do seu XAMPP. O caminho pode variar, mas geralmente está localizado em C:\xampp\htdocs no Windows ou /Applications/XAMPP/htdocs no MacOS.
 
-Inicie o Servidor XAMPP:
+3. **Inicie o Servidor XAMPP:**
 Inicie o XAMPP e inicie os serviços Apache e MySQL.
 
-Acesse o Tasker no Navegador:
+4. **Acesse o Tasker no Navegador:**
 Abra seu navegador web e digite o seguinte endereço:
+   ```bash
+   http://localhost/tasker
