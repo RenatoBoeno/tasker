@@ -17,3 +17,9 @@ Bem-vindo ao Tasker, a sua solução completa para gerenciamento de tarefas! Est
 1. **Clone o Repositório:**
    ```bash
    git clone https://github.com/seu-usuario/tasker.git
+2. **Navegue até o Diretório do Projeto:**
+   ```bash
+   cd tasker
+
+
+
