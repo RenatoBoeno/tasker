@@ -1,9 +1,0 @@
-RewriteEngine On
-RewriteBase /site/index.php
-
-RewriteRule ^dhjasofhpdishfodspfsadf23nrjlsa$ ../cadastro/conta_criar.php [L]
-RewriteRule ^dodspfsadf23nrjlsa$ ../index.php [L]
-RewriteRule ^ouahsfhdasdeasea$ ../cadastro/tarefas_cadastrar.php [L]
-RewriteRule ^ouahsfhdadsadasdeasea$ ../cadastro/historico_listar.php [L]
-RewriteRule ^ouahsfhdasddasdadasdaeasea$ ./processa.php [L]
-
