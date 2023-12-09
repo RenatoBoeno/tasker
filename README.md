@@ -28,8 +28,7 @@ Certifique-se de ter o [XAMPP](https://www.apachefriends.org/index.html) instala
 2. **Mova o Projeto para a Pasta htdocs do XAMPP:**
 Mova a pasta do projeto para o diretório htdocs do seu XAMPP. O caminho pode variar, mas geralmente está localizado em C:\xampp\htdocs no Windows ou /Applications/XAMPP/htdocs no MacOS.
 
-3. **Crie o banco de dados:**
-Abra seu navegador web e digite o seguinte endereço:
+3. ** Modelo para o banco de dados:**
    ```bash
    https://github.com/RenatoBoeno/tasker/blob/main/Modelo_tabelas
 
