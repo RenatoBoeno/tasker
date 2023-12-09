@@ -1,0 +1,22 @@
+*Banco Taker*
+*Tabela de Usuarios*
+ *Tabela de tarefas*
+
+CREATE DATABASE IF NOT EXISTS Tasker;
+USE Tasker;
+
+CREATE TABLE TARTarefa (
+    TARCodigo INT(10) AUTO_INCREMENT PRIMARY KEY,
+    TARTarefa VARCHAR(255),
+    TARData DATE,
+    TARConcluida ENUM('Sim', 'Não', 'Atrasada'),
+    USUCodigo VARCHAR(255),
+    TARPrioridade ENUM('Alta', 'Média', 'Baixa')
+);
+
+CREATE TABLE USUUsuario (
+    USUCodigo INT(10) AUTO_INCREMENT PRIMARY KEY,
+    USUNome VARCHAR(255),
+    USUSenha VARCHAR(255),
+    USUEmail VARCHAR(255)
+);
